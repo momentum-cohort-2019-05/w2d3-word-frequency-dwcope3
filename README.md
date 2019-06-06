@@ -1,5 +1,5 @@
 # Word Frequency
-
+#going to need to split the file to make each word into a list
 ## Directions
 
 In this project, you will use `open` to read in a text file and calculate the frequency of words in that file.
@@ -11,7 +11,7 @@ To calculate the frequency of words, you must:
 - remove "stop words" -- words used so frequently they are ignored
 - go through the file word by word and keep a count of how often each word is used
 
-When your program is complete, you should be able to run `python3 wordfreq.py seneca_falls.txt` and get a printed report like this:
+When your program is complete, you should be able to run `python3 word_frequency.py seneca_falls.txt` and get a printed report like this:
 
 ```
      her | 33 *********************************

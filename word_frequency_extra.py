@@ -8,6 +8,7 @@ STOP_WORDS = [
     'will', 'with'
 ]
  
+ 
  #lower case all text
 wordlist = wordlist.lower()
 #remove all punctuation and spacing
@@ -80,4 +81,4 @@ for pair in sorteddictionary:
 #         print_word_freq(file)
 #     else:
 #         print(f"{file} does not exist!")
-#         exit(1)
+#         exit(1) 
